@@ -40,10 +40,10 @@ Visualizing projected flooding from sea level rise (of 0 feet to 10 feet above a
 The figure above shows the region included in the final artwork, a part of the Everglades in South Florida. The [state boundary lines](https://www.arcgis.com/home/item.html?id=774019f31f8549c39b5c72f149bbe74e) are from the U.S. Census Bureau provided by Esri. The satellite image is a composite Sentinel-2 image from March to May 2024 downloaded using the `rsi` package in R developed by Michael Mahoney.
 
 <p align="center">
-  <img src="https://github.com/via-zhang/climate-storytelling/blob/main/sea-level-projection/fl_se_slr_depth_frames.png" alt="Figure with 21 images showing projected flooding from sea level rise of 0 feet to 10 feet for a part of the Everglades in South Florida." width="500">
+  <img src="https://github.com/via-zhang/climate-storytelling/blob/main/sea-level-projection/fl_se_slr_depth_frames.png" alt="Figure with 21 images showing projected flooding from sea level rise of 0 feet to 10 feet for a part of the Everglades in South Florida." width="800">
 </p>
 
-The figure above shows all the images that make up the timelapse, with projected sea level rise starting from 0 feet (at average high tide), up to 10 feet in increments of 0.5 feet.
+The figure above shows all the images that make up the timelapse, starting at 0 feet (average high tide). Each image after shows projected flooding from a 0.5 feet increase in sea level rise from the previous image, ending at 10 feet above average high tide.
 
 # Acknowledgements
 Thank you for reading about my artwork! I am so grateful to the team behind [Climate Storytelling 2075](https://storytelling-2075.tumblr.com/) for their feedback and support in creating this artwork. I am inspired by this vibrant community of passionate storytellers and learned so much from everyone.
