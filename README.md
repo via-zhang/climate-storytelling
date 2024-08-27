@@ -1,5 +1,11 @@
 # Over the Years, a Climate Storytelling 2075 Project
 
+## Final Artwork
+![A digital self portrait, overlaid with a series of colored lines depicting sea level rise and a timelapse of sea level rise over a satellite image.](https://github.com/via-zhang/climate-storytelling/blob/main/artwork/Over_the_Years.gif)
+"Over the Years" is a multimedia artwork that explores data visualization as an avenue for climate storytelling. Inspired by the role of location: how we interact with each other, with our histories, and with our environment, this artwork features a timelapse of projected sea level rise in the Everglades in South Florida, a line graph of sea level change off the coast of Southeast Florida since 1994, overlaid with a personal portrait. Accompanying these visuals is a short poem that delves into my emotions regarding the escalating climate crisis.
+
+# Data
+
 ## Sea Level Change
 Visualizing local sea level data from the [NOAA tide-monitoring station](https://tidesandcurrents.noaa.gov/stations.html) at Virginia Key, Florida, near my home in Southeast Florida. More information is available at the [CO-OPS Relative Sea Level Trends Tool](https://www.climate.gov/news-features/features/interactive-map-how-has-local-sea-level-united-states-changed-over-time).
 
