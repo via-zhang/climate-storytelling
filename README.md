@@ -3,7 +3,9 @@
 ## Sea Level Change
 Visualizing local sea level data from the [NOAA tide-monitoring station](https://tidesandcurrents.noaa.gov/stations.html) at Virginia Key, Florida, near my home in Southeast Florida. More information is available at the [CO-OPS Relative Sea Level Trends Tool](https://www.climate.gov/news-features/features/interactive-map-how-has-local-sea-level-united-states-changed-over-time).
 
-<img src="https://github.com/via-zhang/climate-storytelling/blob/main/sea-level-change/graphs/mean_sea_level_8723214_grid.png" alt="Graph showing sea level change from 1994 to 2023 for Virginia Key, Florida, with one line for each year. There is an upward trend in the lines, indicating sea level rise." width="200">
+<p align="center">
+  <img src="https://github.com/via-zhang/climate-storytelling/blob/main/sea-level-change/graphs/mean_sea_level_8723214_grid.png" alt="Graph showing sea level change from 1994 to 2023 for Virginia Key, Florida, with one line for each year. There is an upward trend in the lines, indicating sea level rise." width="500">
+</p>
 
 The graph shows sea level change (relative to the mean sea level from 1983–2001) in Virginia Key, Florida for each month from 1994 to 2023. The color indicates the year: darker colors indicate more recent sea levels up to 2023, and ligher colors indicate sea levels closer to 1994. There is a prominent rise in sea level for the observed region (Virginia Key, Florida), and similar trends of sea level rise is seen in many other regions.
 
