@@ -5,18 +5,27 @@
 "Over the Years" is a multimedia artwork that explores data visualization as an avenue for climate storytelling. Inspired by the role of location: how we interact with each other, with our histories, and with our environment, this artwork features a timelapse of projected sea level rise in the Everglades in South Florida, a line graph of sea level change off the coast of Southeast Florida since 1994, overlaid with a personal portrait. Accompanying these visuals is a short poem that delves into my emotions regarding the escalating climate crisis.
 
 ## Poem
-```
-over the years
-I can feel
-the thrashing
-in my heartbeat
-as veins of
-seagrass unfurl
-against the ocean's
-restless rise
-we know we must
-rise higher
-```
+
+> over the years
+> 
+> I can feel
+> 
+> the thrashing
+> 
+> in my heartbeat
+> 
+> as veins of
+> 
+> seagrass unfurl
+> 
+> against the ocean's
+> 
+> restless rise
+> 
+> we know we must
+> 
+> rise higher
+
 I wrote this poem, which appears in the final artwork line by line, in reflection of my fear and hope surrounding the climate crisis. I often feel overwhelmed by the vast changes that are happening and how communities are being impacted by climate change—yet I strongly believe in the power of communities to come together and create equitable, sustainable solutions.
 
 # Data
@@ -25,7 +34,7 @@ I wrote this poem, which appears in the final artwork line by line, in reflectio
 Visualizing local sea level data from the [NOAA tide-monitoring station](https://tidesandcurrents.noaa.gov/stations.html) at Virginia Key, Florida, near my home in Southeast Florida. More information is available at the [CO-OPS Relative Sea Level Trends Tool](https://www.climate.gov/news-features/features/interactive-map-how-has-local-sea-level-united-states-changed-over-time).
 
 <p align="center">
-  <img src="https://github.com/via-zhang/climate-storytelling/blob/main/sea-level-change/graphs/mean_sea_level_8723214_grid.png" alt="Graph showing sea level change from 1994 to 2023 for Virginia Key, Florida, with one line for each year. There is an upward trend in the lines, indicating sea level rise." width="500">
+  <img src="https://github.com/via-zhang/climate-storytelling/blob/main/sea-level-change/mean_sea_level_8723214_grid.png" alt="Graph showing sea level change from 1994 to 2023 for Virginia Key, Florida, with one line for each year. There is an upward trend in the lines, indicating sea level rise." width="500">
 </p>
 
 The graph shows sea level change (relative to the mean sea level from 1983–2001) in Virginia Key, Florida for each month from 1994 to 2023. The color indicates the year: darker colors indicate more recent sea levels up to 2023, and ligher colors indicate sea levels closer to 1994. There is a prominent rise in sea level for the observed region (Virginia Key, Florida), and similar trends of sea level rise are seen in many other regions.
@@ -47,3 +56,9 @@ The figure above shows all the images that make up the timelapse, starting at 0 
 
 # Acknowledgements
 Thank you for reading about my artwork! I am so grateful to the team behind [Climate Storytelling 2075](https://storytelling-2075.tumblr.com/) for their feedback and support in creating this artwork. I am inspired by this vibrant community of passionate storytellers and learned so much from everyone.
+
+# Artist Statement
+I create digital artwork that reflects data about the world around us and the complicated emotions interconnected with our identities and experiences. Growing up in coastal cities, I have seen the reality of the climate crisis, but I found the massive amounts of data surrounding climate change and its impacts to be overwhelming. The creativity and flexibility of digital art allows me to better process climate change data—emphasizing both the urgency of the climate crisis and the hope for collaborative, equitable, and intersectional solutions.
+
+My artwork reflects my personal experiences—being born in New Orleans just a few months before Hurricane Katrina hit, which became the costliest and one of the most destructive hurricanes in US history. I think of my mother’s strength as she drove my brother and I to safety amongst the chaos of evacuation. I think of how it’s shaped our lives, especially as we have faced more hurricanes since moving to South Florida. Art is my way of expressing all these emotions at once—strength and fear, urgency and hope.
+
