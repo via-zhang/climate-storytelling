@@ -16,9 +16,13 @@ Visualizing local sea level data from the [NOAA tide-monitoring station](https:/
 The graph shows sea level change (relative to the mean sea level from 1983–2001) in Virginia Key, Florida for each month from 1994 to 2023. The color indicates the year: darker colors indicate more recent sea levels up to 2023, and ligher colors indicate sea levels closer to 1994. There is a prominent rise in sea level for the observed region (Virginia Key, Florida), and similar trends of sea level rise is seen in many other regions.
 
 ## Projected Sea Level Rise
-Visualizing projected sea level rise, up to 10 feet in elevation, in a part of the Everglades in South Florida. The sea level depth data is from the [NOAA Office for Coastal Management's (OCM) Sea Level Rise Viewer](https://coast.noaa.gov/digitalcoast/tools/slr.html), showing sea level rise inundation for 0 ft to 10 ft above Mean Higher High Water (MHHW) for Southeast Florida.
+Visualizing projected flooding from sea level rise (of 0 feet to 10 feet above average high tides in increments of 0.5 feet). The sea level depth data is from the [NOAA Office for Coastal Management's (OCM) Sea Level Rise Viewer](https://coast.noaa.gov/digitalcoast/tools/slr.html). The different colors represent depth in meters above ground for the projected sea level rise, with darker blue indicating the sea level is higher above ground, and lighter blue indicating the sea level is at ground level.
 
-The map below shows the region included in the final artwork, with [state boundary lines](https://www.arcgis.com/home/item.html?id=774019f31f8549c39b5c72f149bbe74e) from the U.S. Census Bureau provided by Esri. The satellite image is a composite Sentinel-2 image from March to May 2024 downloaded using the `rsi` package in R developed by Michael Mahoney.
+<p align="center">
+  <img src="https://github.com/via-zhang/climate-storytelling/blob/main/sea-level-projection/fl_se_slr_depth_timelapse.gif" alt="Timelapse showing projected flooding from sea level rise of 0 feet to 10 feet for a region in South Florida." width="500">
+</p>
+
+The figure above shows the region included in the final artwork, a part of the Everglades in South Florida. The [state boundary lines](https://www.arcgis.com/home/item.html?id=774019f31f8549c39b5c72f149bbe74e) are from the U.S. Census Bureau provided by Esri. The satellite image is a composite Sentinel-2 image from March to May 2024 downloaded using the `rsi` package in R developed by Michael Mahoney.
 
 ## Poem
 ```
