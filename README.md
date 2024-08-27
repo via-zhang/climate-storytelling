@@ -34,10 +34,16 @@ The graph shows sea level change (relative to the mean sea level from 1983–200
 Visualizing projected flooding from sea level rise (of 0 feet to 10 feet above average high tides in increments of 0.5 feet). The sea level depth data is from the [NOAA Office for Coastal Management's (OCM) Sea Level Rise Viewer](https://coast.noaa.gov/digitalcoast/tools/slr.html). The colors represent depth in meters above ground for the projected sea level rise, with darker blues indicating the sea level is higher above ground, and lighter blues indicating the sea level is at ground level.
 
 <p align="center">
-  <img src="https://github.com/via-zhang/climate-storytelling/blob/main/sea-level-projection/fl_se_slr_depth_timelapse.gif" alt="Timelapse showing projected flooding from sea level rise of 0 feet to 10 feet for a region in South Florida." width="500">
+  <img src="https://github.com/via-zhang/climate-storytelling/blob/main/sea-level-projection/fl_se_slr_depth_timelapse.gif" alt="Timelapse showing projected flooding from sea level rise of 0 feet to 10 feet for a part of the Everglades in South Florida." width="500">
 </p>
 
 The figure above shows the region included in the final artwork, a part of the Everglades in South Florida. The [state boundary lines](https://www.arcgis.com/home/item.html?id=774019f31f8549c39b5c72f149bbe74e) are from the U.S. Census Bureau provided by Esri. The satellite image is a composite Sentinel-2 image from March to May 2024 downloaded using the `rsi` package in R developed by Michael Mahoney.
+
+<p align="center">
+  <img src="https://github.com/via-zhang/climate-storytelling/blob/main/sea-level-projection/fl_se_slr_depth_frames.png" alt="Figure with 21 images showing projected flooding from sea level rise of 0 feet to 10 feet for a part of the Everglades in South Florida." width="500">
+</p>
+
+The figure above shows all the images that make up the timelapse, with projected sea level rise starting from 0 feet (at average high tide), up to 10 feet in increments of 0.5 feet.
 
 # Acknowledgements
 Thank you for reading about my artwork! I am so grateful to the team behind [Climate Storytelling 2075](https://storytelling-2075.tumblr.com/) for their feedback and support in creating this artwork. I am inspired by this vibrant community of passionate storytellers and learned so much from everyone.
