@@ -2,7 +2,7 @@
 
 ## Final Artwork
 ![A digital self portrait, overlaid with a series of colored lines depicting sea level rise and a timelapse of sea level rise over a satellite image.](https://github.com/via-zhang/climate-storytelling/blob/main/artwork/Over_the_Years.gif)
-"Over the Years" is a multimedia artwork that explores data visualization as an avenue for climate storytelling. Inspired by the role of location: how we interact with each other, with our histories, and with our environment, this artwork features a timelapse of projected sea level rise in the Everglades in South Florida, a line graph of sea level change off the coast of Southeast Florida since 1994, overlaid with a personal portrait. Accompanying these visuals is a short poem that delves into my emotions regarding the escalating climate crisis.
+"Over the Years" is a multimedia artwork that explores data visualization as an avenue for climate storytelling. Inspired by the role of location—how we interact with each other, with our histories, and with our environment—this artwork features a timelapse of projected flooding from sea level rise up to 10 feet in the Everglades in South Florida, a line graph of sea levels off the coast of Southeast Florida from 1994 to 2023, overlaid with a personal portrait. Accompanying these visuals is a short poem that delves into my emotions regarding the escalating climate crisis.
 
 ## Poem
 ```
@@ -17,7 +17,7 @@ restless rise
 we know we must
 rise higher
 ```
-I wrote this poem, which appears in the final artwork line by line, in reflection of my fear and hope surrounding the climate crisis. I often feel overwhelmed by the vast changes that are happening and how communities are being impacted by climate change—yet I strongly believe in the power of communities to come together and create equitable, sustainable solutions.
+I wrote this poem in reflection of my fear and hope surrounding the climate crisis. I often feel overwhelmed by the vast changes that are happening and how communities are being impacted by climate change—yet I strongly believe in the power of communities to come together and create equitable, sustainable solutions.
 
 # Data
 
@@ -28,7 +28,7 @@ Visualizing local sea level data from the [NOAA tide-monitoring station](https:/
   <img src="https://github.com/via-zhang/climate-storytelling/blob/main/sea-level-change/mean_sea_level_8723214_grid.png" alt="Graph showing sea level change from 1994 to 2023 for Virginia Key, Florida, with one line for each year. There is an upward trend in the lines, indicating sea level rise." width="500">
 </p>
 
-The graph shows sea level change (relative to the mean sea level from 1983–2001) in Virginia Key, Florida for each month from 1994 to 2023. The color indicates the year: darker colors indicate more recent sea levels up to 2023, and ligher colors indicate sea levels closer to 1994. There is a prominent rise in sea level for the observed region (Virginia Key, Florida), and similar trends of sea level rise are seen in many other regions. This graph is rotated 90&deg; in the final artwork.
+The graph shows sea level change (relative to the mean sea level from 1983–2001) in Virginia Key, Florida for each month from 1994 to 2023. The color indicates the year: darker colors show monthly data from years closer to 2023, and ligher colors show monthly data from years closer to 1994. There is a prominent rise in sea level for the observed region (Virginia Key, Florida), and similar trends of sea level rise are seen in many other regions. This graph is rotated 90&deg; in the final artwork.
 
 ## Projected Sea Level Rise
 Visualizing projected flooding from sea level rise (of 0 feet to 10 feet above average high tides in increments of 0.5 feet). The sea level depth data is from the [NOAA Office for Coastal Management's (OCM) Sea Level Rise Viewer](https://coast.noaa.gov/digitalcoast/tools/slr.html). The colors represent depth in meters above ground for the projected sea level rise, with darker blues indicating the sea level is higher above ground, and lighter blues indicating the sea level is at ground level. The satellite image is a composite Sentinel-2 image from March to May 2024 downloaded using the `rsi` package in R developed by Michael Mahoney.
@@ -43,7 +43,11 @@ The figure above shows the region included in the final artwork, a part of the E
   <img src="https://github.com/via-zhang/climate-storytelling/blob/main/sea-level-projection/fl_se_slr_depth_frames.png" alt="Figure with 21 images showing projected flooding from sea level rise of 0 feet to 10 feet for a part of the Everglades in South Florida." width="800">
 </p>
 
-The figure above shows all the images that make up the timelapse, starting at 0 feet (average high tide). Each image after shows projected flooding from a 0.5 feet increase in sea level from the previous image, ending at 10 feet above average high tide.
+The figure above shows all the images that make up the timelapse, starting at 0 feet (at the level of average high tides). Each image after shows projected flooding from a 0.5 feet increase in sea level from the previous image, ending at 10 feet above average high tides.
+
+# First Version of the Artwork
+
+The process of creating this artwork was a journey for me, where I explored various data visualizations and emotions that I wanted to portray before landing on what became the final version. This is my initial sketch for `Over the Years`, which includes satellite data and a poem with slightly different wording. The portrait is overlaid with a timelapse of modified Sentinel-2 satellite images over a part of the coast of Southwest Florida from 2017 to 2023, downloaded using the `create timelapse animation` tool in [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser/). I enjoyed exploring the process of creating art with satellite images, as I feel that satellite images have a lot to tell us—not just about the physical landscape but also about how we interact with the environment. Ultimately, I decided to use other data in the final artwork as I wanted to show both historical and projected sea level rise in Florida.
 
 # Acknowledgements
 Thank you for reading about my artwork! I am so grateful to the team behind [Climate Storytelling 2075](https://storytelling-2075.tumblr.com/) for their feedback and support in creating this artwork. I am inspired by this vibrant community of passionate storytellers and learned so much from everyone.
