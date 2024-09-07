@@ -34,16 +34,22 @@ The graph shows sea level change (relative to the mean sea level from 1983–200
 Visualizing projected flooding from sea level rise (of 0 feet to 10 feet above average high tides in increments of 0.5 feet). The sea level depth data is from the [NOAA Office for Coastal Management's (OCM) Sea Level Rise Viewer](https://coast.noaa.gov/digitalcoast/tools/slr.html). The colors represent depth in meters above ground for the projected sea level rise, with darker blues indicating the sea level is higher above ground, and lighter blues indicating the sea level is at ground level. The satellite image is a composite Sentinel-2 image from March to May 2024 downloaded using the `rsi` package in R developed by Michael Mahoney.
 
 <p align="center">
-  <img src="https://github.com/via-zhang/climate-storytelling/blob/main/sea-level-projection/fl_se_slr_depth_timelapse.gif" alt="Timelapse showing projected flooding from sea level rise of 0 feet to 10 feet for a part of the Everglades in South Florida." width="500">
+  <img src="https://github.com/via-zhang/climate-storytelling/blob/main/sea-level-projection/fl_everglades_slr_depth_timelapse.gif" alt="Timelapse showing projected flooding from sea level rise of 0 feet to 10 feet for a part of the Everglades in South Florida." width="500">
 </p>
 
 The figure above shows the region included in the final artwork, a part of the Everglades in South Florida. The [state boundary lines](https://www.arcgis.com/home/item.html?id=774019f31f8549c39b5c72f149bbe74e) are from the U.S. Census Bureau, accessed through Esri.
 
 <p align="center">
-  <img src="https://github.com/via-zhang/climate-storytelling/blob/main/sea-level-projection/fl_se_slr_depth_frames.png" alt="Figure with 21 images showing projected flooding from sea level rise of 0 feet to 10 feet for a part of the Everglades in South Florida." width="800">
+  <img src="https://github.com/via-zhang/climate-storytelling/blob/main/sea-level-projection/fl_everglades_slr_depth_frames.png" alt="Figure with 21 images showing projected flooding from sea level rise of 0 feet to 10 feet for a part of the Everglades in South Florida." width="800">
 </p>
 
 The figure above shows all the images that make up the timelapse, starting at 0 feet (at the level of average high tides). Each image after shows projected flooding from a 0.5 feet increase in sea level from the previous image, ending at 10 feet above average high tides.
+
+<p align="center">
+  <img src="https://github.com/via-zhang/climate-storytelling/blob/main/sea-level-projection/fl_se_slr_depth_timelapse.gif" alt="Timelapse showing projected flooding from sea level rise of 0 feet to 10 feet for Southeast Florida." width="500">
+</p>
+
+The figure above shows the same data (projected flooding from sea level rise up to 10 feet), but zoomed out to Southeast Florida.
 
 # First Version of the Artwork
 ![A digital self portrait, overlaid with a timelapse of satellite images showing the coast of Southwest Florida from 2017 to 2023.](https://github.com/via-zhang/climate-storytelling/blob/main/artwork/Over_the_Years_Sketch.gif)
