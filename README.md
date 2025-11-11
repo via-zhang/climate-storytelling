@@ -1,8 +1,11 @@
 # Over the Years, a Climate Storytelling 2075 Project
 
-## Final Artwork
 ![A digital self portrait, overlaid with a series of colored lines depicting sea level rise and a timelapse of sea level rise over a satellite image.](artwork/Over_the_Years.gif)
 "Over the Years" is a multimedia artwork that explores data visualization as an avenue for climate storytelling. Inspired by the role of location—how we interact with each other, with our histories, and with our environment—this artwork features a timelapse of projected flooding from sea level rise up to 10 feet in the Everglades in South Florida, a line graph of sea levels off the coast of Southeast Florida from 1994 to 2023, overlaid with a personal portrait. Accompanying these visuals is a short poem that delves into my emotions regarding the escalating climate crisis.
+
+## Exhibit
+As part of the Climate Storytelling 2075 Anthology, "Over the Years" was on display in Queens, New York at the Queens Council on the Arts in partnership with Ofrenda Fest from September to December 2024. It was also showcased by the Climate Museum on social media.
+![Exhibit at the Queens Council on the Arts.](artwork/exhibit.jpeg)
 
 ## Poem
 ```
